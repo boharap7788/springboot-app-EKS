@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.springapp.simpleapp.SimpleSpringAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.561 s -- in com.springapp.simpleapp.SimpleSpringAppApplicationTests
