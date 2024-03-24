@@ -1,1 +1,1 @@
-# springboot-app-EKS
+# springboot-app-AWS-EKS
